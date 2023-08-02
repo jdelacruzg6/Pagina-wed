@@ -49,12 +49,12 @@ body {
 .menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
-    color: #fff;
+    color: #5a81e5;
     display: block;
     font-weight: 600;
 }
 .menu .navbar ul li a:hover{
-    color: #ce967b
+    color: #dd0c0c
 
 }
 #menu {
@@ -99,7 +99,7 @@ body {
 
 .coffe {
     padding: 100px 0;
-    background-color: #e7d598;
+    background-color: #0db6e008;
     position: relative;
 }
 .coffe-content {
@@ -109,7 +109,7 @@ body {
 .coffe-content h2 {
     font-size: 55px;
     line-height: 70px;
-    color: #323337;
+    color: #020308;
     text-transform: uppercase;
     padding: 0 250px;
     margin-bottom: 15px;
